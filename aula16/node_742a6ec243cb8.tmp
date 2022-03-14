@@ -1,0 +1,6 @@
+function fatorial(n) {
+    for (var c = n ; c <= n; c --) {
+    console.log(c)
+    }
+}
+console.log(fatorial(5))
